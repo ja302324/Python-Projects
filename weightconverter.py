@@ -9,4 +9,4 @@ elif what_weight.lower() == "k":
 else:
     print("Wrong Charater!")
 
-print(f"You're weight is {weight}")
+print(f"Your weight is {weight}")
